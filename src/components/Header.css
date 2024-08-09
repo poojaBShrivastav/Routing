@@ -1,0 +1,38 @@
+header{
+    height:100px;
+    width:100%;
+    display:flex
+}
+.head1{
+    width:20%;
+    height:100%;
+}
+.head2{
+    width:50%;
+    text-align: center;
+    height:100%;
+    padding-top: 10px;
+}
+li{
+    display: inline-block;
+    margin-left: 25px;
+    font-size: 25px;
+   
+}
+.link{
+    text-decoration: none;
+    color:black
+}
+.head3{
+    width:30%;
+    height:100%;
+    padding: 10px;
+    text-align: right;
+}
+.head3 button{
+    padding:8px 20px;
+    font-size: 15px;
+    background-color: black;
+    color:white;
+    margin-left: 20px;
+}

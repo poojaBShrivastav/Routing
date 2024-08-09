@@ -1,0 +1,19 @@
+footer{
+    height:300px;
+    width:100%;
+    box-sizing: border-box;
+    /* padding: 20px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+    background-color: black;
+    color:white;
+}
+footer div{
+    text-align: center;
+}
+.menu,.copyright{
+    margin-top: 20px;
+}

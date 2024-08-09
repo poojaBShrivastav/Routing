@@ -5,7 +5,7 @@ function Register() {
     <div className='login_cont'>
        
     <div className='login'>
-    <h1>Regsietr </h1>
+    <h1>Register </h1>
       <h3>Username </h3>
       <input type="text"/>
 
